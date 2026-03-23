@@ -1,5 +1,13 @@
 # blackroad-3d-renderer
 
+> 3D wireframe renderer with matrix math and ASCII terminal output
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Interactive](https://github.com/BlackRoad-Interactive)
+
+---
+
+# blackroad-3d-renderer
+
 > Software 3D wireframe renderer with full matrix math, perspective projection, and ASCII terminal output.
 
 Part of **BlackRoad-Interactive** — production game and graphics infrastructure.
